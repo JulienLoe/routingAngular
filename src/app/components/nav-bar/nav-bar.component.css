@@ -1,0 +1,9 @@
+.containerLink{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link{
+    margin: 10px;
+}
